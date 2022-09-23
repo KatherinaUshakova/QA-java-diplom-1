@@ -1,4 +1,5 @@
 .idea
+.git
 src/.idea
 target/*
 !target/site
