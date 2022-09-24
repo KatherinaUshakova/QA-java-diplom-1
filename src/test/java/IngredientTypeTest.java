@@ -8,11 +8,11 @@ public class IngredientTypeTest {
 
     @Test
     public void sauceValueTypeTest() {
-        assertEquals(valueOf(IngredientType.SAUCE), "SAUCE");
+        assertEquals("SAUCE", valueOf(IngredientType.SAUCE));
     }
 
     @Test
     public void fillingValueTypeTest() {
-        assertEquals(valueOf(IngredientType.FILLING), "FILLING");
+        assertEquals("FILLING", valueOf(IngredientType.FILLING));
     }
 }

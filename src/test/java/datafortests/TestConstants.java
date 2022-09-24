@@ -1,4 +1,4 @@
-package DataForTests;
+package datafortests;
 
 public class TestConstants {
     public static final String BUN_NAME = "R314";

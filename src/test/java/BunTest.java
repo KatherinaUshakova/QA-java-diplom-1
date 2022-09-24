@@ -1,4 +1,4 @@
-import DataForTests.TestConstants;
+import datafortests.TestConstants;
 import org.junit.Assert;
 import org.junit.Test;
 import praktikum.Bun;
